@@ -20,12 +20,19 @@ Explain the following concepts
         2. What is red file names
         3. What is green file names.
 
-    
-    Then do a commit, with a message.  Talk about the messge itself and its importance.
-    
-    Then do a git status again.  Show the message and what it means. 
-    
     Then do a 'git ls-files -s':  Explain what is seen.
         Files added to Index at some point and are being tracked.
+                 Now do 'git ls-files -s' and show how file1 is added to the index.
+
+    
+    Then do a commit, with a message.  
+      Talk about the messge itself and its importance when trying to track back later.
+      Then do a git status again.  Show the message and what it means. 
+      What is the result of a commit. (Storing changes in the repo.)
+    
+
+    
+    
+    
 
 
